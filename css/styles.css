@@ -1,17 +1,7 @@
-p.intro {
+.intro {
   width: 60%;
   font-family: arial;
   color: darkblue;
-}
-
-h2.intro {
-  font-type: bold;
-  font-family: impact;
-  color: black;
-}
-
-img.intro {
-  width: 30%;
 }
 
 body {
